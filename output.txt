@@ -1,0 +1,9 @@
+
+ 	 Question 10 Programming 
+
+Train loss: 0.018300345390236804
+Train accuracy: 0.9948571428571429
+Validation loss: 0.05023812278352367
+Validation accuracy: 0.9878333333333333
+Test loss: 0.034094437360802615
+Test accuracy: 0.9908
